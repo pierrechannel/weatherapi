@@ -430,3 +430,152 @@ Observation enregistrée: IBUJUM3 - 2025-11-10 17:39:09 - Temp: 27.2°C
 Observation enregistrée: IBUJUM3 - 2025-11-10 17:44:51 - Temp: 27.2°C
 0 nouvelles observations enregistrées
 3 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+Thread de surveillance démarré - Intervalle: 300s
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Thread de surveillance démarré - Intervalle: 300s
+Thread de surveillance démarré - Intervalle: 300s
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Thread de surveillance démarré - Intervalle: 300s
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Thread de surveillance démarré - Intervalle: 300s
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Thread de surveillance démarré - Intervalle: 300s
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=df904ffa7aad495d904ffa7aadb95d3b&stationId=IBUJUM3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000156AD0699D0>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Read timed out. (read timeout=30)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Read timed out. (read timeout=30)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Read timed out. (read timeout=30)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Read timed out. (read timeout=30)
+Erreur de requête API: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Read timed out. (read timeout=30)
+Thread de surveillance démarré - Intervalle: 300s
+Thread de surveillance démarré - Intervalle: 300s
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Observation enregistrée: IBUJUM3 - 2025-11-14 13:33:43 - Temp: 25.6°C
+1 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-14 13:39:36 - Temp: 24.4°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 13:44:22 - Temp: 23.9°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 13:49:09 - Temp: 23.9°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-14 13:54:35 - Temp: 23.3°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 13:58:59 - Temp: 23.3°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 14:04:37 - Temp: 22.8°C
+3 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+[OK] Surveillance météo démarrée: IBUJUM3 (intervalle: 300s)
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 900s
+[OK] Surveillance météo démarrée: IBUJUM3 (intervalle: 900s)
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 900s
+[OK] Surveillance météo démarrée: IBUJUM3 (intervalle: 900s)
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 900s
+[OK] Surveillance météo démarrée: IBUJUM3 (intervalle: 900s)
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-14 14:09:10 - Temp: 22.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 14:14:45 - Temp: 22.8°C
+2 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 900s
+[OK] Surveillance météo démarrée: IBUJUM3 (intervalle: 900s)
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 900s
+[OK] Surveillance météo démarrée: IBUJUM3 (intervalle: 900s)
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+Erreur lors de l'enregistrement de l'observation: 'NoneType' object has no attribute 'startswith'
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 900s
+[OK] Surveillance météo démarrée: IBUJUM3 (intervalle: 900s)
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 900s
+[OK] Surveillance météo démarrée: IBUJUM3 (intervalle: 900s)
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 900s
+[OK] Surveillance météo démarrée: IBUJUM3 (intervalle: 900s)
+Observation enregistrée: IBUJUM3 - 2025-11-14 14:19:11 - Temp: 22.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 14:24:50 - Temp: 22.8°C
+2 nouvelles observations enregistrées

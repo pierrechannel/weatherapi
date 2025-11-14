@@ -304,7 +304,7 @@ class WeatherMonitorThread(threading.Thread):
 _monitor_thread = None
 
 
-def start_weather_monitoring(api_url, api_key, interval_seconds=300, station_id=None):
+def start_weather_monitoring(api_url, api_key, interval_seconds=900, station_id=None):
     """Démarre le thread de surveillance météo"""
     global _monitor_thread
     
@@ -315,7 +315,7 @@ def start_weather_monitoring(api_url, api_key, interval_seconds=300, station_id=
     _monitor_thread = WeatherMonitorThread(api_url, api_key, interval_seconds, station_id)
     _monitor_thread.start()
     
-    logger.info(f"✓ Surveillance météo démarrée: {station_id} (intervalle: {interval_seconds}s)")
+    logger.info(f"[OK] Surveillance météo démarrée: {station_id} (intervalle: {interval_seconds}s)")
     return _monitor_thread
 
 

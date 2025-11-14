@@ -19,7 +19,7 @@ class WeatherConfig(AppConfig):
             API_URL = 'https://api.weather.com/v2/pws/observations/all/1day'
             API_KEY = 'df904ffa7aad495d904ffa7aadb95d3b'
             
-            INTERVAL = 300  # 5 minutes
+            INTERVAL = 900  # 15 minutes
             STATION_ID = 'IBUJUM3'
             
             # Démarrer la surveillance automatique
