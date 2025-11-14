@@ -1,0 +1,432 @@
+Django>=4.2
+requests>=2.31.0Weather data saved: IMURAM1 at 2025-11-07 14:01:29
+Weather data saved: IMURAM1 at 2025-11-07 14:13:26
+Weather data saved: IMURAM1 at 2025-11-07 14:13:26
+Failed to fetch weather data: HTTPSConnectionPool(host='api.weather.com', port=443): Read timed out. (read timeout=10)
+No data fetched from API
+Failed to fetch weather data: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/current?stationId=IMURAM1&format=json&units=e&apiKey=8c0b8b2844fb471b8b8b2844fb871b92 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022351F7DCA0>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+No data fetched from API
+Weather data saved: IMURAM1 at 2025-11-07 15:22:55
+Weather data saved: IMURAM1 at 2025-11-07 15:28:46
+Observation doesn't meet criteria for saving (either too old, duplicate, or no changes)
+Observation doesn't meet criteria for saving (either too old, duplicate, or no changes)
+Fetched 19 observations from API
+Latest observation epoch: 1762522475
+Latest observation time: 2025-11-07T13:34:35Z
+Current time: 2025-11-07 16:23:08.212109+00:00
+Observation time: 2025-11-07 13:34:35+00:00
+Time difference: 2:48:33.212109
+Change detection - Temp: 76 vs 76, Humidity: 73 vs 73, Wind Speed: 0 vs 0, Changes detected: True
+Changes detected: True
+Weather data saved: IMURAM1 at 2025-11-07 15:34:35
+Failed to fetch weather data: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?stationId=IMURAM1&format=json&units=e&apiKey=8c0b8b2844fb471b8b8b2844fb871b92 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000190B9308200>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+No data fetched from API
+Failed to fetch weather data: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?stationId=IMURAM1&format=json&units=e&apiKey=8c0b8b2844fb471b8b8b2844fb871b92 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000190B93C3470>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+No data fetched from API
+Fetched 19 observations from API
+Latest observation epoch: 1762522475
+Latest observation time: 2025-11-07T13:34:35Z
+Latest observation data - Temp: 76, Humidity: 73
+Current time: 2025-11-07 16:28:20.558212+00:00
+Observation time: 2025-11-07 13:34:35+00:00
+Time difference: 2:53:45.558212
+Observation with epoch 1762522475 already exists
+Observation doesn't meet criteria for saving
+Fetched 19 observations from API
+Latest observation epoch: 1762522475
+Latest observation time: 2025-11-07T13:34:35Z
+Latest observation data - Temp: 76, Humidity: 73
+Current time: 2025-11-07 16:28:30.059098+00:00
+Observation time: 2025-11-07 13:34:35+00:00
+Time difference: 2:53:55.059098
+Observation with epoch 1762522475 already exists
+Observation doesn't meet criteria for saving
+Fetched 19 observations from API
+Latest observation epoch: 1762522475
+Latest observation time: 2025-11-07T13:34:35Z
+Latest observation data - Temp: 76, Humidity: 73
+Current time: 2025-11-07 16:28:34.880949+00:00
+Observation time: 2025-11-07 13:34:35+00:00
+Time difference: 2:53:59.880949
+Observation with epoch 1762522475 already exists
+Observation doesn't meet criteria for saving
+Fetched 19 observations from API
+Latest observation epoch: 1762522475
+Latest observation time: 2025-11-07T13:34:35Z
+Latest observation data - Temp: 76, Humidity: 73
+Current time: 2025-11-07 16:30:05.317900+00:00
+Observation time: 2025-11-07 13:34:35+00:00
+Time difference: 2:55:30.317900
+Observation with epoch 1762522475 already exists
+Observation doesn't meet criteria for saving
+Failed to fetch weather data: Expecting value: line 1 column 1 (char 0)
+No data fetched from API
+Fetching weather data from: https://api.weather.com/v2/pws/observations/current
+With params: {'stationId': 'IMURAM1', 'format': 'json', 'units': 'e', 'apiKey': '8c0b8b2844fb471b8b8b2844fb871b92'}
+Response status: 204
+Response headers: {'Content-Length': '0', 'Content-Type': 'application/json; charset=UTF-8', 'Set-Cookie': 'AK-STATUS=204; expires=Wed, 22-Aug-2001 17:30:00 GMT', 'X-Region': 'eu-west-1', 'Akamai-GRN': '0.17621502.1762527172.ebb4041', 'Strict-Transport-Security': 'max-age=86400', 'X-Content-Type-Options': 'nosniff', 'Content-Security-Policy': "default-src 'none'", 'X-Trace-Token': '832a5ba4-f7f8-4486-aa5b-a4f7f8b486ba', 'trace-name': 'v2includerouter-include-get', 'Access-Control-Allow-Origin': '*', 'Surrogate-Control': 'ESI/1.0', 'Expires': 'Fri, 07 Nov 2025 14:52:52 GMT', 'Cache-Control': 'max-age=0, no-cache, no-store', 'Pragma': 'no-cache', 'Date': 'Fri, 07 Nov 2025 14:52:52 GMT', 'Connection': 'keep-alive'}
+Failed to fetch weather data: Expecting value: line 1 column 1 (char 0)
+No data fetched from API
+Fetching weather data from: https://api.weather.com/v2/pws/observations/all/1day
+With params: {'stationId': 'IMURAM1', 'format': 'json', 'units': 'e', 'apiKey': '8c0b8b2844fb471b8b8b2844fb871b92'}
+Response status: 200
+Response headers: {'Content-Type': 'application/json; charset=UTF-8', 'X-Region': 'eu-west-1', 'Akamai-GRN': '0.05621502.1762527242.62be31e9', 'Strict-Transport-Security': 'max-age=86400', 'X-Content-Type-Options': 'nosniff', 'Content-Security-Policy': "default-src 'none'", 'X-Trace-Token': '52528059-b4e7-459f-9280-59b4e7459f04', 'trace-name': 'v2includerouter-include-get', 'Access-Control-Allow-Origin': '*', 'Surrogate-Control': 'ESI/1.0', 'Vary': 'Accept-Encoding', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=727', 'Date': 'Fri, 07 Nov 2025 14:54:02 GMT', 'Content-Length': '859', 'Connection': 'keep-alive'}
+API response keys: ['observations']
+Found 19 observations, using most recent
+Change detection: False
+No changes detected, skipping save
+Fetching weather data from: https://api.weather.com/v2/pws/observations/all/1day
+With params: {'stationId': 'IMURAM1', 'format': 'json', 'units': 'e', 'apiKey': '8c0b8b2844fb471b8b8b2844fb871b92'}
+Response status: 200
+Response headers: {'Content-Type': 'application/json; charset=UTF-8', 'X-Region': 'eu-west-1', 'Akamai-GRN': '0.17621502.1762527302.ecb69eb', 'Strict-Transport-Security': 'max-age=86400', 'X-Content-Type-Options': 'nosniff', 'Content-Security-Policy': "default-src 'none'", 'X-Trace-Token': '52528059-b4e7-459f-9280-59b4e7459f04', 'trace-name': 'v2includerouter-include-get', 'Access-Control-Allow-Origin': '*', 'Surrogate-Control': 'ESI/1.0', 'Vary': 'Accept-Encoding', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=666', 'Date': 'Fri, 07 Nov 2025 14:55:03 GMT', 'Content-Length': '859', 'Connection': 'keep-alive'}
+API response keys: ['observations']
+Found 19 observations, using most recent
+Weather data saved: IMURAM1 at 2025-11-07 15:34:35
+No changes detected, skipping save
+Weather data saved: IMURAM1 at 2025-11-07 15:34:35
+Latest observation already exists, skipping save
+Weather data saved: IMURAM1 at 2025-11-07 15:34:35 (epoch: 1762522475)
+Thread de surveillance démarré - Intervalle: 300s
+Thread de surveillance démarré - Intervalle: 300s
+Thread de surveillance démarré - Intervalle: 300s
+Erreur de requête API: 401 Client Error: Unauthorized for url: https://api.weather.com/v2/pws/observations/all/1day?stationId=IMURAM1
+Thread de surveillance démarré - Intervalle: 300s
+Erreur de requête API: 401 Client Error: Unauthorized for url: https://api.weather.com/v2/pws/observations/all/1day?stationId=IMURAM1
+Thread de surveillance démarré - Intervalle: 300s
+Nouvelle station créée: IMURAM1
+Observation enregistrée: IMURAM1 - 2025-11-08 08:59:51
+Observation enregistrée: IMURAM1 - 2025-11-08 09:04:21
+Observation enregistrée: IMURAM1 - 2025-11-08 09:09:52
+Observation enregistrée: IMURAM1 - 2025-11-08 09:14:22
+Observation enregistrée: IMURAM1 - 2025-11-08 09:18:55
+5 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+Observation enregistrée: IMURAM1 - 2025-11-08 09:24:20
+Observation enregistrée: IMURAM1 - 2025-11-08 09:29:54
+2 nouvelles observations enregistrées
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=8c0b8b2844fb471b8b8b2844fb871b92&stationId=IMURAM1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001CC52D8D790>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Thread de surveillance démarré - Intervalle: 300s
+Thread de surveillance démarré - Intervalle: 300s
+Observation enregistrée: IMURAM1 - 2025-11-08 09:34:14
+1 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IMURAM1 - 2025-11-08 09:39:49
+Observation enregistrée: IMURAM1 - 2025-11-08 09:44:09
+Erreur lors de l'enregistrement de l'observation: (1062, "Duplicate entry '1-1762587589' for key 'weather_observationmeteo_station_id_epoch_6c749448_uniq'")
+Observation enregistrée: IMURAM1 - 2025-11-08 09:49:44
+3 nouvelles observations enregistrées
+Erreur lors de l'enregistrement de l'observation: (1062, "Duplicate entry '1-1762588184' for key 'weather_observationmeteo_station_id_epoch_6c749448_uniq'")
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+Observation enregistrée: IMURAM1 - 2025-11-08 09:54:16
+Observation enregistrée: IMURAM1 - 2025-11-08 09:59:41
+Observation enregistrée: IMURAM1 - 2025-11-08 10:03:05
+3 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+Thread de surveillance démarré - Intervalle: 300s
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Erreur de requête API: Expecting value: line 1 column 1 (char 0)
+Thread de surveillance démarré - Intervalle: 300s
+Thread de surveillance démarré - Intervalle: 300s
+Observation enregistrée: IMURAM1 - 2025-11-10 09:34:26
+1 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=8c0b8b2844fb471b8b8b2844fb871b92&stationId=IMURAM1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000271DE32FA70>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=8c0b8b2844fb471b8b8b2844fb871b92&stationId=IMURAM1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000011839C5D190>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=8c0b8b2844fb471b8b8b2844fb871b92&stationId=IMURAM1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000271DE71C710>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=8c0b8b2844fb471b8b8b2844fb871b92&stationId=IMURAM1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000011839C5FF80>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=8c0b8b2844fb471b8b8b2844fb871b92&stationId=IMURAM1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000271DE71CDA0>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=8c0b8b2844fb471b8b8b2844fb871b92&stationId=IMURAM1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000011839C5C0B0>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=8c0b8b2844fb471b8b8b2844fb871b92&stationId=IMURAM1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000271DE71D490>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=8c0b8b2844fb471b8b8b2844fb871b92&stationId=IMURAM1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000011839C5F830>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Thread de surveillance démarré - Intervalle: 300s
+Thread de surveillance démarré - Intervalle: 300s
+Observation enregistrée: IMURAM1 - 2025-11-10 09:39:28
+1 nouvelles observations enregistrées
+Erreur lors de l'enregistrement de l'observation: (1062, "Duplicate entry '1-1762760368' for key 'weather_observationmeteo_station_id_epoch_6c749448_uniq'")
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IMURAM1 - 2025-11-10 09:58:29
+Observation enregistrée: IMURAM1 - 2025-11-10 10:09:31
+2 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+Observation enregistrée: IMURAM1 - 2025-11-10 10:13:52
+Observation enregistrée: IMURAM1 - 2025-11-10 10:19:27
+Observation enregistrée: IMURAM1 - 2025-11-10 10:24:59
+Observation enregistrée: IMURAM1 - 2025-11-10 10:29:19
+Observation enregistrée: IMURAM1 - 2025-11-10 10:34:19
+Observation enregistrée: IMURAM1 - 2025-11-10 10:39:44
+Observation enregistrée: IMURAM1 - 2025-11-10 10:44:21
+7 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IMURAM1 - 2025-11-10 10:49:00
+Observation enregistrée: IMURAM1 - 2025-11-10 10:54:38
+Observation enregistrée: IMURAM1 - 2025-11-10 10:59:28
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=8c0b8b2844fb471b8b8b2844fb871b92&stationId=IMURAM1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021A4CEFE390>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Observation enregistrée: IMURAM1 - 2025-11-10 11:04:01
+Observation enregistrée: IMURAM1 - 2025-11-10 11:07:17
+2 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+Nouvelle station créée: IBUJUM3
+Erreur lors de l'enregistrement de l'observation: ObservationMeteo() got unexpected keyword arguments: 'temp_high_imperial', 'temp_low_imperial', 'temp_avg_imperial', 'windspeed_high_imperial', 'windspeed_low_imperial', 'windspeed_avg_imperial'
+Nouvelle station créée: IBUJUM3
+Erreur lors de l'enregistrement de l'observation: ObservationMeteo() got unexpected keyword arguments: 'temp_high_imperial', 'temp_low_imperial', 'temp_avg_imperial', 'windspeed_high_imperial', 'windspeed_low_imperial', 'windspeed_avg_imperial'
+Nouvelle station créée: IBUJUM3
+Erreur lors de l'enregistrement de l'observation: ObservationMeteo() got unexpected keyword arguments: 'temp_high_imperial', 'temp_low_imperial', 'temp_avg_imperial', 'windspeed_high_imperial', 'windspeed_low_imperial', 'windspeed_avg_imperial'
+Nouvelle station créée: IBUJUM3
+Erreur lors de l'enregistrement de l'observation: ObservationMeteo() got unexpected keyword arguments: 'temp_high_imperial', 'temp_low_imperial', 'temp_avg_imperial', 'windspeed_high_imperial', 'windspeed_low_imperial', 'windspeed_avg_imperial'
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+Nouvelle station créée: IBUJUM3
+Observation enregistrée: IBUJUM3 - 2025-11-10 11:19:46
+Observation enregistrée: IBUJUM3 - 2025-11-10 11:24:12
+Observation enregistrée: IBUJUM3 - 2025-11-10 11:29:01
+Observation enregistrée: IBUJUM3 - 2025-11-10 11:34:45
+4 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 11:39:05 - Temp: 31.1°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 11:44:50 - Temp: 31.7°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 11:49:23 - Temp: 31.7°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 11:54:58 - Temp: 31.1°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 11:59:19 - Temp: 31.7°C
+Erreur lors de l'enregistrement de l'observation: (1062, "Duplicate entry '6-1762768498' for key 'weather_observationmeteo_station_id_epoch_6c749448_uniq'")
+Observation enregistrée: IBUJUM3 - 2025-11-10 12:04:50 - Temp: 32.2°C
+2 nouvelles observations enregistrées
+1 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 300s
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 12:09:25 - Temp: 32.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 12:14:56 - Temp: 32.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 12:19:20 - Temp: 31.7°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=df904ffa7aad495d904ffa7aadb95d3b&stationId=IBUJUM3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020871E2A9C0>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=df904ffa7aad495d904ffa7aadb95d3b&stationId=IBUJUM3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002119FE9A2D0>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=df904ffa7aad495d904ffa7aadb95d3b&stationId=IBUJUM3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002087321EA50>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Observation enregistrée: IBUJUM3 - 2025-11-10 12:23:46 - Temp: 31.1°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 12:29:25 - Temp: 31.1°C
+2 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 13:44:24 - Temp: 32.8°C
+1 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 13:49:55 - Temp: 32.2°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 13:54:31 - Temp: 32.2°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 13:59:03 - Temp: 31.7°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 14:04:48 - Temp: 31.1°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 14:09:12 - Temp: 31.1°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 14:14:44 - Temp: 31.1°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Erreur de requête API: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 14:19:14 - Temp: 30.6°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 14:23:59 - Temp: 30.0°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 14:29:30 - Temp: 30.0°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 14:34:59 - Temp: 29.4°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 14:39:25 - Temp: 28.9°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 14:44:08 - Temp: 28.3°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 14:49:53 - Temp: 28.3°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 14:54:23 - Temp: 28.9°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 14:59:55 - Temp: 28.9°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 15:04:28 - Temp: 28.9°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 15:09:11 - Temp: 28.3°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 15:14:49 - Temp: 28.3°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=df904ffa7aad495d904ffa7aadb95d3b&stationId=IBUJUM3 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002087321FF20>, 'Connection to api.weather.com timed out. (connect timeout=30)'))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=df904ffa7aad495d904ffa7aadb95d3b&stationId=IBUJUM3 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002119FFF7EC0>, 'Connection to api.weather.com timed out. (connect timeout=30)'))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=df904ffa7aad495d904ffa7aadb95d3b&stationId=IBUJUM3 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000208732EFF50>, 'Connection to api.weather.com timed out. (connect timeout=30)'))
+Observation enregistrée: IBUJUM3 - 2025-11-10 15:19:13 - Temp: 28.3°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 15:24:04 - Temp: 28.3°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 15:29:35 - Temp: 28.3°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 15:31:49 - Temp: 27.8°C
+4 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 15:49:38 - Temp: 27.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 15:53:59 - Temp: 27.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 15:59:34 - Temp: 27.8°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 16:04:59 - Temp: 27.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 16:09:38 - Temp: 27.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 16:14:14 - Temp: 27.8°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Erreur de requête API: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 16:19:39 - Temp: 27.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 16:24:08 - Temp: 27.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 16:29:39 - Temp: 27.2°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 16:34:06 - Temp: 27.2°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 16:38:47 - Temp: 27.2°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 16:44:25 - Temp: 27.8°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 16:49:08 - Temp: 27.8°C
+1 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=df904ffa7aad495d904ffa7aadb95d3b&stationId=IBUJUM3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020873374D40>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=df904ffa7aad495d904ffa7aadb95d3b&stationId=IBUJUM3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000211A008E180>: Failed to resolve 'api.weather.com' ([Errno 11001] getaddrinfo failed)"))
+Observation enregistrée: IBUJUM3 - 2025-11-10 16:54:53 - Temp: 27.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 16:59:26 - Temp: 27.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 17:02:03 - Temp: 27.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 17:09:36 - Temp: 27.8°C
+4 nouvelles observations enregistrées
+Erreur lors de l'enregistrement de l'observation: (1062, "Duplicate entry '6-1762787376' for key 'weather_observationmeteo_station_id_epoch_6c749448_uniq'")
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 17:14:23 - Temp: 27.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 17:18:59 - Temp: 27.8°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 17:24:03 - Temp: 27.8°C
+Erreur lors de l'enregistrement de l'observation: (1062, "Duplicate entry '6-1762787939' for key 'weather_observationmeteo_station_id_epoch_6c749448_uniq'")
+1 nouvelles observations enregistrées
+2 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 17:26:38 - Temp: 27.8°C
+1 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-10 17:34:43 - Temp: 27.2°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 17:39:09 - Temp: 27.2°C
+Observation enregistrée: IBUJUM3 - 2025-11-10 17:44:51 - Temp: 27.2°C
+0 nouvelles observations enregistrées
+3 nouvelles observations enregistrées
