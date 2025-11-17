@@ -31,7 +31,12 @@ SECRET_KEY = 'django-insecure-ono3o9g@$ko)mzzx%rv=o!i*@lz@3k431esk^6*5pme9(vpxof
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'apps.mediabox.bi',
+    'localhost',
+    '127.0.0.1',
+    '::1',  # IPv6 localhost
+]
 
 
 # Application definition

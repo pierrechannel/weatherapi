@@ -579,3 +579,172 @@ Thread de surveillance démarré - Intervalle: 900s
 Observation enregistrée: IBUJUM3 - 2025-11-14 14:19:11 - Temp: 22.8°C
 Observation enregistrée: IBUJUM3 - 2025-11-14 14:24:50 - Temp: 22.8°C
 2 nouvelles observations enregistrées
+Thread de surveillance démarré - Intervalle: 900s
+[OK] Surveillance météo démarrée: IBUJUM3 (intervalle: 900s)
+Thread de surveillance démarré - Intervalle: 900s
+[OK] Surveillance météo démarrée: IBUJUM3 (intervalle: 900s)
+Observation enregistrée: IBUJUM3 - 2025-11-14 14:29:10 - Temp: 22.2°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 14:33:50 - Temp: 22.2°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 14:35:10 - Temp: 21.7°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-14 14:43:58 - Temp: 21.7°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 14:49:58 - Temp: 21.7°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 14:54:26 - Temp: 21.1°C
+Erreur lors de l'enregistrement de l'observation: (1062, "Duplicate entry '6-1763124238' for key 'weather_observationmeteo_station_id_epoch_6c749448_uniq'")
+0 nouvelles observations enregistrées
+3 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-14 14:58:54 - Temp: 21.1°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 15:04:42 - Temp: 21.1°C
+Erreur lors de l'enregistrement de l'observation: (1062, "Duplicate entry '6-1763125134' for key 'weather_observationmeteo_station_id_epoch_6c749448_uniq'")
+Observation enregistrée: IBUJUM3 - 2025-11-14 15:09:14 - Temp: 21.7°C
+2 nouvelles observations enregistrées
+1 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-14 15:13:56 - Temp: 21.7°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 15:19:27 - Temp: 21.1°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 15:24:55 - Temp: 21.7°C
+Erreur lors de l'enregistrement de l'observation: (1062, "Duplicate entry '6-1763126367' for key 'weather_observationmeteo_station_id_epoch_6c749448_uniq'")
+0 nouvelles observations enregistrées
+3 nouvelles observations enregistrées
+Erreur de requête API: HTTPSConnectionPool(host='api.weather.com', port=443): Max retries exceeded with url: /v2/pws/observations/all/1day?format=json&units=e&apiKey=df904ffa7aad495d904ffa7aadb95d3b&stationId=IBUJUM3 (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)')))
+Observation enregistrée: IBUJUM3 - 2025-11-14 15:29:15 - Temp: 21.1°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 15:33:55 - Temp: 21.1°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 15:39:00 - Temp: 21.1°C
+3 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-14 15:44:10 - Temp: 21.1°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 15:49:29 - Temp: 21.1°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 15:54:57 - Temp: 21.1°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-14 15:59:03 - Temp: 21.1°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 16:04:29 - Temp: 21.1°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 16:08:36 - Temp: 21.1°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-14 16:14:27 - Temp: 20.6°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 16:18:53 - Temp: 20.6°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 16:23:54 - Temp: 20.6°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-14 16:24:59 - Temp: 20.6°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 16:29:38 - Temp: 20.6°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 16:34:18 - Temp: 20.6°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 16:39:44 - Temp: 20.6°C
+4 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-14 16:44:54 - Temp: 20.6°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 16:49:41 - Temp: 20.6°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 16:54:11 - Temp: 20.6°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Observation enregistrée: IBUJUM3 - 2025-11-14 16:59:43 - Temp: 20.6°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 17:04:04 - Temp: 20.6°C
+Observation enregistrée: IBUJUM3 - 2025-11-14 17:09:45 - Temp: 20.6°C
+3 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+0 nouvelles observations enregistrées
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+0 nouvelles observations enregistrées
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+Erreur lors de l'enregistrement de l'observation: (2006, 'Server has gone away')
+0 nouvelles observations enregistrées
