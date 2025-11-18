@@ -122,7 +122,7 @@ LOGGING = {
         'file': {
             'level': 'DEBUG',
             'class': 'logging.FileHandler',
-            'filename': '/home/npc/weatherapi/logs/weather.log',
+            'filename': '/home/npc/weatherapi/logs/weather.log',###
         },
     },
     'loggers': {
