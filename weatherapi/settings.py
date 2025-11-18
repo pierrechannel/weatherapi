@@ -113,23 +113,23 @@ CELERY_BEAT_SCHEDULE = {
     },
 }
 
-# Logging
+
+
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
     'handlers': {
-        'console': {
-            'class': 'logging.StreamHandler',
-        },
         'file': {
+            'level': 'DEBUG',
             'class': 'logging.FileHandler',
-            'filename': 'weather.log',
+            'filename': '/data/51/html/api/weatherapi/logs/weather.log',
         },
     },
     'loggers': {
-        'weather': {
-            'handlers': ['console', 'file'],
-            'level': 'INFO',
+        'django': {
+            'handlers': ['file'],
+            'level': 'DEBUG',
+            'propagate': True,
         },
     },
 }
